@@ -1,4 +1,4 @@
-# Hi there, I'm Felipe Alves 🐧 👋
+# Hi there, I'm Felipe Pires 🐧 👋
 
 I am an **Infrastructure & Linux Systems Specialist** transitioning into Cloud Operations, DevOps, and Platform Engineering. 
 
